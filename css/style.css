@@ -68,9 +68,6 @@ header .menu h4{
   margin-left: 10px;
   transition: color 0.2s ease-out;
 }
-.navigation nav li a:first-child{
-  color: #000000;
-}
 .navigation nav li a:hover{
   color: #000000;
 }
