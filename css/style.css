@@ -33,24 +33,24 @@ a{
   max-width: 100%;
   margin: 0 auto;
 }
-header .content {
+header .menu {
 	width: 780px;
 	margin: 0 auto;
 	padding-top: 30px;
 	padding-bottom: 30px;
 	display: flex;
-    justify-content: space-between;
+  justify-content: space-between;
 }
-header h3{
-    line-height: 18px;
-    padding-bottom: 10px;
+header .menu h3{
+  line-height: 18px;
+  padding-bottom: 10px;
 }
-header h3 a{
+header .menu h3 a{
   color: rgba(0, 0, 0, 0.8);
   font-size: 18px;
   transition: color 0.2s ease-out;
 }
-header h4{
+header .menu h4{
   color: rgba(0, 0, 0, 0.8);
   font-size: 12px;
   line-height: 12px;
